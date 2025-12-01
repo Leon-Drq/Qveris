@@ -3,7 +3,7 @@
 ### *One unified interface for every tool your AI will ever need.*
 
 <p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5IAAAOSCAIAAACJE3hFAAEAAElEQVR4nOz9R7M...UChrQUFBQUFBQUFBe8BCm0tKCgoKCgoKCh4D1Boa0FBQUFBQUFBwXuAQlsLCgoK" width="160" />
+  <img src="Qverislogo.jpg" width="160" />
 </p>
 
 <p align="center">
