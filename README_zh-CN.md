@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="LOGO_URL" width="160" />
+  <img src="Qverislogo.jpg" width="160" />
 </p>
 
 <p align="center">
